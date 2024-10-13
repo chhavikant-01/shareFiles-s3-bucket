@@ -24,7 +24,7 @@ LinkUni is a simple and efficient file sharing application that allows users to 
 3. Set up environment variables:
    - Create a `.env` file in the root directory
    - Add the following variables:
-S3_SECRET_ACCESS_KEY=
-S3_ACCESS_KEY_ID=
-AWS_REGION=
-MONGO_URI=
+      - S3_SECRET_ACCESS_KEY=
+      - S3_ACCESS_KEY_ID=
+      - AWS_REGION=
+      - MONGO_URI=
