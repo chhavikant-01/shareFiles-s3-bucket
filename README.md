@@ -22,7 +22,7 @@ LinkUni is a simple and efficient file sharing application that allows users to 
 1. Clone the repository
 2. Install dependencies for both frontend and backend
 3. Set up environment variables:
-   - Create a `.env` file in the root directory
+   - Create a `.env` file in the server directory
    - Add the following variables:
       - S3_SECRET_ACCESS_KEY=
       - S3_ACCESS_KEY_ID=
